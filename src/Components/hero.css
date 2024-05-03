@@ -1,0 +1,21 @@
+.HeroSection {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  height: 100vh;
+  padding: 25px;
+  background-image: url("../Images/heroBGImage.jpg");
+}
+
+.HeroSection h1 {
+  color: rgba(255, 255, 255, 0.823);
+  font-weight: 300;
+  font-size: 30px;
+  border-bottom: 2px solid #fdcc0782;
+  line-height: 45px;
+}
+
+::selection {
+  background-color: black;
+}
