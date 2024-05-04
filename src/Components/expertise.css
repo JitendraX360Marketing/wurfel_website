@@ -27,14 +27,14 @@
   color: rgba(255, 255, 255, 0.861);
   font-size: 30px;
   font-weight: 300;
-  width: 1400px;
+  width: fit-content;
   text-align: center;
 }
 .ExpertiseSection p {
   color: rgba(255, 255, 255, 0.823);
   font-size: 14px;
   font-weight: 300;
-  width: 1400px;
+  width: fit-content;
   text-align: center;
 }
 
