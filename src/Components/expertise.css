@@ -1,0 +1,68 @@
+.ExpertiseSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  flex-direction: column;
+  background-image: linear-gradient(
+    to bottom,
+    #000000,
+    #0e0e0e,
+    #181818,
+    #202020,
+    #282828,
+    #2a2a2a,
+    #2b2b2b,
+    #2d2d2d,
+    #282828,
+    #222222,
+    #1d1d1d,
+    #181818
+  );
+  margin-bottom: 500px;
+  padding: 50px;
+}
+
+.ExpertiseSection h1 {
+  color: rgba(255, 255, 255, 0.861);
+  font-size: 30px;
+  font-weight: 300;
+  width: 1400px;
+  text-align: center;
+}
+.ExpertiseSection p {
+  color: rgba(255, 255, 255, 0.823);
+  font-size: 14px;
+  font-weight: 300;
+  width: 1400px;
+  text-align: center;
+}
+
+.mainDivision_ExpertiseSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1400px;
+  margin-top: 25px;
+}
+
+.mainDivision_ExpertiseSection .expertiseSubDivs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  flex-direction: column;
+}
+
+.mainDivision_ExpertiseSection .expertiseSubDivs img {
+  width: fit-content;
+  height: 400px;
+  border-radius: 15px;
+}
+
+.mainDivision_ExpertiseSection .expertiseSubDivs h1 {
+  font-weight: 300;
+  font-size: 28px;
+  margin-top: 5px;
+  color: rgba(255, 255, 255, 0.705);
+}
