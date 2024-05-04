@@ -9,21 +9,19 @@ export default function WhyUs() {
           <div className="leftDiv_WhyChooseUs">
             <div className="sub_Div_leftDiv_wcu">
               <img src={sampleIcon} alt="Sample Icon" />
-              <h1>Sample Heading</h1>
+              <h1>Expertise</h1>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Temporibus fugiat ab eaque dicta laboriosam ad fugit optio.
-                Dolorem, repudiandae! Delectus!
+                Our seasoned team brings unparalleled expertise, ensuring your
+                project receives top-notch guidance and execution.
               </p>
             </div>
             <div className="sub_Div_leftDiv_wcu">
               {" "}
               <img src={sampleIcon} alt="Sample Icon" />
-              <h1>Sample Heading</h1>
+              <h1>Innovation</h1>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Temporibus fugiat ab eaque dicta laboriosam ad fugit optio.
-                Dolorem, repudiandae! Delectus!
+                We pioneer creative solutions, staying ahead with innovative
+                strategies tailored to meet your unique needs.
               </p>
             </div>
           </div>
@@ -34,29 +32,27 @@ export default function WhyUs() {
               CHOOSE <br />
               US?
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere
-                vero nobis corporis fuga eos molestiae!
+                Rigorous quality checks guarantee excellence in every aspect,
+                fostering trust and satisfaction among our clients.
               </p>
             </div>
             <div className="lowerDiv_WhyChooseUs">
               <div className="lowerSubDiv_wcu">
                 {" "}
                 <img src={sampleIcon} alt="Sample Icon" />
-                <h1>Sample Heading</h1>
+                <h1>Quality Assurance</h1>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Temporibus fugiat ab eaque dicta laboriosam ad fugit optio.
-                  Dolorem, repudiandae! Delectus!
+                  Rigorous quality checks guarantee excellence in every aspect,
+                  fostering trust and satisfaction among our clients.
                 </p>
               </div>
               <div className="lowerSubDiv_wcu">
                 {" "}
                 <img src={sampleIcon} alt="Sample Icon" />
-                <h1>Sample Heading</h1>
+                <h1>Customer-Centric Approach</h1>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Temporibus fugiat ab eaque dicta laboriosam ad fugit optio.
-                  Dolorem, repudiandae! Delectus!
+                  Rigorous quality checks guarantee excellence in every aspect,
+                  fostering trust and satisfaction among our clients.
                 </p>
               </div>
             </div>

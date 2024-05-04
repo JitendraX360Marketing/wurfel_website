@@ -19,7 +19,6 @@
     #1d1d1d,
     #181818
   );
-  margin-bottom: 500px;
   padding: 50px;
 }
 
@@ -36,6 +35,7 @@
   font-weight: 300;
   width: fit-content;
   text-align: center;
+  width: 1400px;
 }
 
 .mainDivision_ExpertiseSection {
@@ -64,5 +64,4 @@
   font-weight: 300;
   font-size: 28px;
   margin-top: 5px;
-  color: rgba(255, 255, 255, 0.705);
 }

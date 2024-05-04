@@ -11,10 +11,13 @@ export default function KitchenCur() {
         <span>Left</span>
         <div className="mainDivision_KitchenCurSection">
           <div className="curItem1">
+            <img src={curItem1} alt="" />
           </div>
           <div className="curItem2">
+            <img src={curItem2} alt="" />
           </div>
           <div className="curItem3">
+            <img src={curItem3} alt="" />
           </div>
         </div>
         <span>Right</span>

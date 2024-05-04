@@ -7,7 +7,7 @@ import Consultation from "./Components/Consultation";
 import WhyUs from "./Components/WhyUs";
 import ComSectionMKWD from "./Components/ComSectionMKWD";
 import Expertise from "./Components/Expertise";
-import KitchenCur from "./Components/KitchenCur";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
         <ComSectionMKWD />
         <Consultation />
         <Expertise />
-        <KitchenCur/>
+        <Footer />
       </BrowserRouter>
     </>
   );

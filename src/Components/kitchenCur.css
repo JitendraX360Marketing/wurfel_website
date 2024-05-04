@@ -1,0 +1,49 @@
+.KitchenCurSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: fit-content;
+  margin-bottom: 500px;
+  padding: 50px;
+  gap: 50px;
+}
+
+.mainDivision_KitchenCurSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1500px;
+}
+
+.mainDivision_KitchenCurSection img {
+  max-width: 1500px;
+  max-height: fit-content;
+}
+
+.curItem1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  position: relative;
+  height: fit-content;
+}
+.curItem2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  position: relative;
+  height: fit-content;
+  display: none;
+}
+.curItem3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  position: relative;
+  height: fit-content;
+  display: none;
+}

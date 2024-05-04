@@ -1,0 +1,111 @@
+.Footer_Section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 50px;
+  background-image: linear-gradient(
+    to right top,
+    #1f1f1f,
+    #1f1f1f,
+    #1f201f,
+    #202020,
+    #202020,
+    #212121,
+    #232323,
+    #242424,
+    #262626,
+    #282828,
+    #2a2a2a,
+    #2c2c2c
+  );
+}
+
+.mainDivisionFooterSection {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  width: 1300px;
+}
+
+.aboutComDiv_Footer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 50%;
+  flex-direction: column;
+}
+
+.aboutComDiv_Footer h1 {
+  font-size: 24px;
+  color: rgba(255, 255, 255, 0.873);
+  font-weight: 400;
+}
+.aboutComDiv_Footer p {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.873);
+  margin-top: 10px;
+  font-weight: 300;
+}
+.aboutComDiv_Footer span {
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.873);
+  margin-top: 10px;
+  font-weight: 300;
+}
+.aboutComDiv_Footer div {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  gap: 8px;
+}
+.aboutComDiv_Footer div a i {
+  color: rgba(255, 255, 255, 0.873);
+}
+.aboutComDiv_Footer div a i:hover {
+  color: white;
+}
+
+.addressDiv_Footer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 50%;
+  flex-direction: column;
+}
+
+.addressDiv_Footer h1 {
+  color: rgba(255, 255, 255, 0.873);
+  font-weight: 400;
+}
+.addressDiv_Footer p {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.873);
+  font-weight: 300;
+}
+.addressDiv_Footer span {
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.873);
+  font-weight: 300;
+}
+.addressDiv_Footer a {
+  color: rgba(255, 255, 255, 0.873);
+}
+
+.copyrightSection {
+  background-color: rgb(25, 25, 25);
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0px;
+}
+.copyrightSection span {
+  color: rgba(255, 255, 255, 0.861);
+  font-size: 14px;
+}
+.copyrightSection span a {
+  color: rgba(255, 255, 255, 0.861);
+  font-size: 14px;
+}

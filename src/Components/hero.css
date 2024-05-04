@@ -6,6 +6,8 @@
   height: 100vh;
   padding: 25px;
   background-image: url("../Images/heroBGImage.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .HeroSection h1 {

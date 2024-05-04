@@ -48,6 +48,7 @@
   font-weight: 500;
   font-size: 22px;
   text-align: center;
+  line-height: 25px;
 }
 .mainDivision_WhyUs .leftDiv_WhyChooseUs .sub_Div_leftDiv_wcu p {
   font-size: 14px;
@@ -88,7 +89,7 @@
   color: #313131;
   flex-direction: column;
   padding: 25px;
-  background-color: rgb(240,240,240);
+  background-color: rgb(240, 240, 240);
 }
 .mainDivision_WhyUs .rightDiv_WhyChooseUs .uperDiv_WhyChooseUs p {
   font-size: 14px;
@@ -133,6 +134,7 @@
   font-weight: 500;
   font-size: 22px;
   text-align: center;
+  line-height: 25px;
 }
 .mainDivision_WhyUs
   .rightDiv_WhyChooseUs
