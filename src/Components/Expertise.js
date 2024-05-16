@@ -7,7 +7,7 @@ export default function Expertise() {
   return (
     <>
       <section className="ExpertiseSection">
-        <h1>Our Expertise</h1>
+        <h1>Our Expertisee</h1>
 
         <p>
           At WURFREL, we understand the importance of seamlessly integrating
