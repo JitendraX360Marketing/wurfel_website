@@ -1,0 +1,17 @@
+.ModularKitchenSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: fit-content;
+  padding: 25px 0px;
+}
+/* Responsiveness of Website */
+
+@media screen and (max-width: 700px) {
+  .ModularKitchenSection {
+    padding: 5px 0px;
+  }
+}
+
+/* End of Responsiveness of Website */

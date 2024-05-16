@@ -109,3 +109,40 @@
   color: rgba(255, 255, 255, 0.861);
   font-size: 14px;
 }
+
+/* Responsiveness of Website */
+
+@media screen and (max-width: 800px) {
+  .Footer_Section {
+    padding: 25px;
+  }
+  .mainDivisionFooterSection {
+    width: 100%;
+    flex-direction: column;
+  }
+  .aboutComDiv_Footer {
+    width: 100%;
+  }
+  .addressDiv_Footer {
+    width: 100%;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 25px 0px;
+  }
+  .addressDiv_Footer h1 {
+    color: rgba(255, 255, 255, 0.873);
+    font-weight: 400;
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .copyrightSection {
+    flex-direction: column;
+  }
+  .copyrightSection span {
+    font-size: 13px;
+  }
+}
+
+/* End of Responsiveness of Website */

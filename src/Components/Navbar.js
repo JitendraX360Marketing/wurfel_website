@@ -10,8 +10,7 @@ export default function Navbar() {
         <div className="mainDivision_NavbarSection">
           <div className="logoDiv_Navbar">
             <Link to={"/"}>
-              {" "}
-              <img src={logo} alt="Wurfel Logo" />
+              <img src={logo} alt="Furnishia Logo" />
             </Link>
           </div>
           <div className="getDesignsDiv_Navbar">

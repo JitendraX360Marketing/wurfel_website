@@ -69,9 +69,11 @@ export default function Footer() {
           </div>
           <div className="addressDiv_Footer">
             {" "}
-            <h1>Würfel</h1>
-            <p>Plot No. H726B, Road No. 9F2, Vishwakarma Industrial Area</p>
-            <p>Jaipur, Rajasthan, India </p>
+            <h1>Furnishiaa</h1>
+            <p>
+              Plot No. H726B, Road No. 9F2, Vishwakarma Industrial Area, <br />{" "}
+              Jaipur, Rajasthan, India
+            </p>
             <span>
               Contact No.: <a href="tel:8503886992">8503886992</a>,{" "}
               <a href="tel:7849912491">7849912491</a>
@@ -92,7 +94,7 @@ export default function Footer() {
             }}
             to={"/"}
           >
-            Würfel.in
+            Furnishiaa
           </Link>
         </span>
         <span>

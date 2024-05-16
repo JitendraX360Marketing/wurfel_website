@@ -48,3 +48,29 @@
 .mainDivisionBookConsultation .bookConsultationBTN:hover {
   background-color: #fdcb07;
 }
+
+/* Responsoiveness of Website */
+
+@media screen and (max-width: 700px) {
+  .BookConsultation {
+    padding: 50px 25px;
+  }
+  .mainDivisionBookConsultation h1 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .mainDivisionBookConsultation p {
+    font-size: 14px;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.786);
+    font-weight: 300;
+  }
+
+  .mainDivisionBookConsultation .bookConsultationBTN {
+    padding: 7px 20px;
+    font-size: 13px;
+  }
+}
+
+/* End of Responsoiveness of Website */

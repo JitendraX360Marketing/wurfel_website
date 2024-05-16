@@ -8,6 +8,8 @@
   background-image: url("../Images/heroBGImage.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
 }
 
 .HeroSection h1 {
@@ -21,3 +23,18 @@
 ::selection {
   background-color: black;
 }
+
+/* Responsiveness of Website */
+
+@media screen and (max-width: 600px) {
+  .HeroSection {
+    max-height: 90vh;
+  }
+
+  .HeroSection h1 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+}
+
+/* End of Responsiveness of Website */

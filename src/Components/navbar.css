@@ -25,7 +25,7 @@
 }
 .logoDiv_Navbar img {
   width: fit-content;
-  height: 25px;
+  height: 35px;
 }
 
 .getDesignsDiv_Navbar {
@@ -48,3 +48,21 @@
 .getDesignsDiv_Navbar button:hover {
   background-color: #fdcb07;
 }
+
+/* Responsiveness of Navigation Bar */
+
+@media screen and (max-width: 1200px) {
+  .mainDivision_NavbarSection {
+    width: 100%;
+    padding: 0px 25px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .getDesignsDiv_Navbar button {
+    padding: 6px 15px;
+    font-size: 13px;
+  }
+}
+
+/* End of Responsiveness of Navigation Bar */
